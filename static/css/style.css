@@ -1,0 +1,51 @@
+p
+{
+	color: black;
+	font-family: 'Roboto', sans-serif;
+}
+
+.modro
+{
+	color: ANTIQUEWHITE;
+	background-color:DARKSEAGREEN;
+	padding:20px;
+	font-size:50px;
+	margin:0px;
+	position:relative;
+	text-align:left;
+}
+
+.gumb
+{
+background-color:ANTIQUEWHITE;
+margin:1px color:ANTIQUEWHITE;
+}
+
+.crna
+{
+	color: black;
+	background-color:GAINSBORO;
+	padding:15px;
+	margin:0px;
+}
+.riba
+{
+	color: black;
+
+}
+
+body 
+{
+   background-color: ANTIQUEWHITE;
+   font-family: 'Roboto', sans-serif;
+   text-align: center;
+}
+
+.a
+{
+   text-align: center;
+}
+
+
+
+
